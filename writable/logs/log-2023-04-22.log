@@ -1,0 +1,76 @@
+CRITICAL - 2023-04-22 12:22:34 --> Undefined variable $libros
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 APPPATH\Views\libros\listar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:22:36 --> Undefined variable $libros
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 APPPATH\Views\libros\listar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:22:53 --> Undefined constant "libros"
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 4 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:23:17 --> Undefined variable $libros
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 APPPATH\Views\libros\listar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:25:54 --> Undefined variable $libros
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 APPPATH\Views\libros\listar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:26:42 --> Undefined variable $libros
+in APPPATH\Views\libros\listar.php on line 11.
+ 1 APPPATH\Views\libros\listar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 14:50:11 --> Undefined variable $libros
+in APPPATH\Views\template\cabecera.php on line 11.
+ 1 APPPATH\Views\template\cabecera.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\template\\cabecera.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\template\\cabecera.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('template/cabecera', [], true)
+ 5 APPPATH\Controllers\Libros.php(15): view('template/cabecera')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Libros->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
